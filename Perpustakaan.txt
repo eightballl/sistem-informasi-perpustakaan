@@ -1,0 +1,13 @@
+Login Akses :
+username : admin
+password : admin
+
+1. Halaman pertama akan diarahkan ke halaman LOGIN
+2. Setelah login, akan diarahkan ke halaman dashboard yang menampilkan data buku yang dalam status dipinjam.
+3. Halaman ke-tiga adalah halaman data buku, yang mempunyai fungsi untuk menampilkan data, menambah data, mengubah data dan menghapus data. buku.
+4. Halaman ke-empat dalah halaman data pinjaman, yang mempunyai fungsi menampilkan data buku ybang dalam status dipinjam, dan menyelesaikan transaksi pinjaman disaat member perpustakaan telah mengembalikan buku.
+5. Halaman ke-lima adalah halaman yang menampilkan riwayat transaksi pinjaman buku yang telah selesai.
+6. Halaman ke-enam adalah halaman dimana menampilkan data member perpustakaan, yang mempunyai fungi tambah data, ubah data dan hapus data member perpustakaan.
+7. Halaman ke-tujuh adalah halaman kelola akun admim, yang mempunyai fungsi menampilkan akun admin perpustakaan, serta menambah akun admin jikalau terdapat admin perpustakaan baru, mengubah akun admin dan menghapus akun admin.
+
+Penjelasan source code telah disertakan dalam dokumentasi source code yang telah dilampirkan.
